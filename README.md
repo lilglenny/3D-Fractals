@@ -1,2 +1,2 @@
-/*Thank you "someuser-321" for the original idea*/
+*/Thank you "someuser-321" for the original idea/*
 
